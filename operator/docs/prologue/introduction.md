@@ -3,7 +3,7 @@ title: "Introduction"
 description: "The Loki Operator provides Kubernetes native deployment and management of Loki and related logging components"
 lead: ""
 date: 2022-06-21T08:48:45+00:00
-lastmod: 2022-06-21T08:48:45+00:00
+lastmod: 2025-07-10T08:48:45+00:00
 draft: false
 images: []
 menu:
@@ -25,4 +25,4 @@ The Loki operator includes, but is not limited to, the following features:
 
 ### Quick Start
 
-One page summary of how to start with the Loki Operator. [Quick Start →]({{< ref "quickstart" >}})
+One page summary of how to start with the Loki Operator. [Quick Start](operator/docs/prologue/quickstart.md)
